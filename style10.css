@@ -1,0 +1,159 @@
+.body{
+    background-image: url("images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#login{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 10px;
+    background-color: #24314f;
+    color: cornsilk;
+}
+nav{
+      background-color: #24314f;
+  }
+  nav ul{
+    display: flex;
+    margin-left: 5%;
+  }
+  nav ul li{
+      padding:15px;
+      margin-left: 3%;
+      list-style: none;
+      text-decoration: none;
+  }
+nav ul li a{
+    text-transform: uppercase;
+    color: cornsilk;
+}
+nav ul li a:hover {
+    color: orange;
+  }
+  .right{
+    margin-left: 10%;
+    color: red;
+}
+.panel{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    padding:20px;
+    background-color: #24314f;
+}
+.inside{
+    padding:10px;
+    margin-left: 5%;
+    width:30%;
+}
+.inside a{
+    text-decoration: none;
+    color: cornsilk;
+}
+#ribbon{
+    width: 80%;
+    margin-left: 10%;
+    color: maroon;
+    text-align: center;
+}
+.details_form{
+    width: 60%;
+    margin-left: 20%;
+    margin-left: 20%;
+    padding:20px;
+    background-color: #24314f;
+    color: cornsilk;
+}
+.patients_table{
+    width: 80%;
+    margin-left: 10%;
+    margin-left: 10%;
+    padding:20px;
+    background-color: #24314f;
+    color: cornsilk;
+}
+.tabs{
+    display: flex;
+}
+.details_form1{
+    width: 60%;
+    margin-left: 20%;
+    margin-left: 20%;
+    padding:20px;
+    background-color: #24314f;
+    color: cornsilk;
+    display: flex;
+}
+.form1{
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+.panel1{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    padding:20px;
+    background-color: #24314f;
+}
+.inside1{
+    padding:10px;
+    margin-left: 8%;
+    width:25%;
+    color: cornsilk;
+}
+.inside1 a{
+    text-decoration: none;
+    color: cornsilk;
+}
+.details_form2{
+    width: 80%;
+    margin-left: 10%;
+    margin-left: 10%;
+    padding:20px;
+    background-color: #24314f;
+    color: cornsilk;
+}
+.doctor_form{
+    display: flex;
+}
+.doc{
+    margin-left: 5%;
+    width: 45%;
+}
+td{
+    text-wrap: normal;
+    word-wrap: break-word;
+}
+.panel2{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    padding:20px;
+    background-color: #24314f;
+}
+.inside2{
+    padding:10px;
+    margin-left: 10%;
+    width:25%;
+    color: cornsilk;
+}
+.inside2 a{
+    text-decoration: none;
+    color: cornsilk;
+}
+.pdftitle{
+ text-align: center;
+}
+.patients_table1{
+    width: 98%;
+    margin-left: 1%;
+    margin-left: 1%;
+    padding:20px;
+    background-color: #24314f;
+    color: cornsilk;
+}
